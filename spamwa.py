@@ -1,13 +1,3 @@
-Skip to content
- XiuzSec / k-bisa-otp
-Code Pull requests 0 Projects 0 Wiki Security Pulse
-k-bisa-otp/kitabis.py / 
-@Maoundis Maoundis Add files via upload
-bb619d7 7 days ago
-65 lines (49 sloc)  1.81 KB
- 
- You're using jump to definition to discover and navigate code.
-Learn more or give us feedback
 #-*- coding: utf8 -*-
 #ya maap kodingam we berantakan :)>
 
